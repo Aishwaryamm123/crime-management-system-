@@ -1,0 +1,16 @@
+fname,pid,age,gender,address,ward_no,incharge_id
+Ashok Kumar,888665555,40,M,"450 Vijayanagar, Bangalore",1 ,
+Vinod Chaubey,333445555,35,M,"638 Basavanagudi,Bangalore",2 ,
+Saraswathi Prasad,634562444,35,F,"625 Rajajinagara, Bangalore",4 ,333445555
+Pallavi Ramesh,874932444,32,F,"628 Peenya, Bangalore",11,333445555
+Rakesh Maria,12345678 ,40,M,"731 Banashankari,Bangalore",3 ,333445555
+Ranjith Mooshahary,987654321,25,M,"291 K.R.Purum, Bangalore",12,
+Sangram Singh,999887777,40,M,"3321 Katriguppe,Bangalore",13,987654321
+Mala Raj,634345673,35,F,"625 Malleshwarum, Bangalore",5 ,
+Ramesh Narayan,666884444,35,M,"975 Girinagara, Bangalore",14,634345673
+Mohini Dhanraj,634334523,30,F,"535 Basavangudi, Bangalore",15,888665555
+Sanjeev Tripathi,453453453,32,M,"5631 Yashavanthapura,Bangalore",16,333445555
+Raajeev Shankar,45634284 ,32,M,"561 Yashavanthapura,Bangalore",6 ,333445555
+Shankar Bidari,987987987,28,M,"980 Chamarajapete, Bangalore",8 ,987654321
+Ramya Bharghav,345234786,40,F,"564 Banashankari, Bangalore",17,987987987
+Divya Spandana,234564734,28,F,"346 Mejestic, Bangalore",18,987987987
